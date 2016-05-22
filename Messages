@@ -1,0 +1,16 @@
+{
+  "EN": {
+    "LOGGED_OK": "&aLogin successful.",
+    "WELLCOME_BACK": "&eWellcome back %s.",
+    "LAST_PLAY_MSG": "&eIt's been %s days since we last saw you. We miss you.",
+    "WRONG_PASSWORD": "&cYou've entered an incorrect password. Please try again.",
+    "OLD_PASSWORD": "Your password has been changed at %s. If you're not made this change, reset your password from http://minecorn.com"
+  },
+  "TR": {
+    "LOGGED_OK": "&aGiriş başarılı.",
+    "WELLCOME_BACK": "&eHoşgeldin %s.",
+    "LAST_PLAY_MSG": "&eEn son %s gün önce giriş yaptın. Seni özledik.",
+    "WRONG_PASSWORD": "&cHatalı bir şifre girdin. Lütfen tekrar dene.",
+    "OLD_PASSWORD": "&6Parolan %s tarihinde değiştirildi. Bu değişikliği sen yapmadıysan http://minecorn.com sitemizden parolanı sıfırlayabilirsin."
+  }
+}
