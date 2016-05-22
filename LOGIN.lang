@@ -4,7 +4,7 @@
     "WELLCOME_BACK": "&eWellcome back %s.",
     "LAST_PLAY_MSG": "&eIt's been %s days since we last saw you. We miss you.",
     "WRONG_PASSWORD": "&cYou've entered an incorrect password. Please try again.",
-    "OLD_PASSWORD": "Your password has been changed at %s. If you're not made this change, reset your password from http://minecorn.com"
+    "OLD_PASSWORD": "&6Your password has been changed at %s. If you're not made this change, reset your password from http://minecorn.com"
   },
   "TR": {
     "LOGGED_OK": "&aGiriş başarılı.",
