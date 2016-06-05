@@ -4,15 +4,17 @@
     "WELLCOME_BACK": "&eWellcome back %s.",
     "LAST_PLAY_MSG": "&eIt's been %s days since we last saw you. We miss you.",
     "WRONG_PASSWORD": "&cYou've entered an incorrect password. Please try again.",
-    "OLD_PASSWORD": "&6Your password has been changed at %s. If you're not made this change, reset your password from http://minecorn.com",
-    "REGISTER_FIRST": "&3Register at &6http://minecorn.com &3to enter the Minecorn."
+    "OLD_PASSWORD": "&6Your password has been changed at &e%s&6. If you're not made this change, reset your password from http://minecorn.com",
+    "REGISTER_FIRST": "&3Register at &6http://minecorn.com &3to enter the Minecorn.",
+    "ONLY_PASSWORD": "&6Please input only your password into chat."
   },
   "TR": {
     "LOGGED_OK": "&aGiriş başarılı.",
     "WELLCOME_BACK": "&eHoşgeldin %s.",
     "LAST_PLAY_MSG": "&eEn son %s gün önce giriş yaptın. Seni özledik.",
     "WRONG_PASSWORD": "&cHatalı bir şifre girdin. Lütfen tekrar dene.",
-    "OLD_PASSWORD": "&6Parolan %s tarihinde değiştirildi. Bu değişikliği sen yapmadıysan http://minecorn.com sitemizden parolanı sıfırlayabilirsin.",
-    "REGISTER_FIRST": "&3Minecorn'a girmek için &6http://minecorn.com &3adresinden kayıt ol."
+    "OLD_PASSWORD": "&6Parolan &e%s &6tarihinde değiştirildi. Bu değişikliği sen yapmadıysan http://minecorn.com sitemizden parolanı sıfırlayabilirsin.",
+    "REGISTER_FIRST": "&3Minecorn'a girmek için &6http://minecorn.com &3adresinden kayıt ol.",
+    "ONLY_PASSWORD": "&6Sohbet kısmına yalnızca parolanızı yazın."
   }
 }
