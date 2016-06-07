@@ -8,7 +8,7 @@
     "REGISTER_FIRST": "&3Register at &6http://minecorn.com &3to enter the Minecorn.",
     "ONLY_PASSWORD": "&6Please input only your password into chat.",
     "ENTER_PASSWORD": "&3To login enter your password into chat.",
-    "TRANSFERING": "&6You're transfering to lobby server. Please wait.."
+    "TRANSFERING": "&6You're transfering to lobby server. Please wait."
   },
   "TR": {
     "LOGGED_OK": "&aGiriş başarılı.",
@@ -19,6 +19,6 @@
     "REGISTER_FIRST": "&3Minecorn'a girmek için &6http://minecorn.com &3adresinden kayıt ol.",
     "ONLY_PASSWORD": "&6Sohbet kısmına yalnızca şifreni yaz.",
     "ENTER_PASSWORD": "&3Sohbet kısmına şifreni yazarak giriş yap.",
-    "ENTER_PASSWORD": "&6Seni lobiye aktarıyorum. Lütfen bekle."
+    "TRANSFERING": "&6Seni lobiye aktarıyorum. Lütfen bekle."
   }
 }
