@@ -7,7 +7,8 @@
     "OLD_PASSWORD": "&6Your password has been changed at &e%s&6. If you're not made this change, reset your password from http://minecorn.com",
     "REGISTER_FIRST": "&3Register at &6http://minecorn.com &3to enter the Minecorn.",
     "ONLY_PASSWORD": "&6Please input only your password into chat.",
-    "ENTER_PASSWORD": "&3To login enter your password into chat."
+    "ENTER_PASSWORD": "&3To login enter your password into chat.",
+    "TRANSFERING": "&6You're transfering to lobby server. Please wait.."
   },
   "TR": {
     "LOGGED_OK": "&aGiriş başarılı.",
@@ -17,6 +18,7 @@
     "OLD_PASSWORD": "&6Parolan &e%s &6tarihinde değiştirildi. Bu değişikliği sen yapmadıysan http://minecorn.com sitemizden parolanı sıfırlayabilirsin.",
     "REGISTER_FIRST": "&3Minecorn'a girmek için &6http://minecorn.com &3adresinden kayıt ol.",
     "ONLY_PASSWORD": "&6Sohbet kısmına yalnızca şifreni yaz.",
-    "ENTER_PASSWORD": "&3Sohbet kısmına şifreni yazarak giriş yap."
+    "ENTER_PASSWORD": "&3Sohbet kısmına şifreni yazarak giriş yap.",
+    "ENTER_PASSWORD": "&6Seni lobiye aktarıyorum. Lütfen bekle."
   }
 }
